@@ -1,16 +1,16 @@
 ---
 # 中文名称
-title: 曾华琳
+title: 王美红
 
 #英文名，是展示在论文里面的名字
-englishname: Hualin Zeng
+englishname: Meihong Wang
 
 # Full name (for SEO)
-first_name: 曾
-last_name: 华琳
+first_name: 王
+last_name: 美红
 
 # 老师们在这里可以填一些比较重要的头衔、职称
-role: 讲师
+role: 副教授
 weight: 2
 # 这里放跟自己相关的一些页面的链接，我预定义了三个：分别是邮箱、Google-scholar主页和github主页
 # 对于不想放上去或者自己没有的链接，直接删除即可。

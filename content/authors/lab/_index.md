@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 语言智能技术课题组
+title: Thinking-Lab-XMU
 
 # Username (this should match the folder name)
 authors:
@@ -17,7 +17,7 @@ role: <span style="color:#ff0000;"><b>L</b></span>anguage
 # Organizations/Affiliations
 
 
-email: 'jssu@xmu.edu.cn'
+email: 'wuqq@xmu.edu.cn'
 
 ---
 
