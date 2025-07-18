@@ -44,23 +44,7 @@ user_groups:
 * 扩散模型
 
 ### 论文成果
-
-<a href="https://ebooks.iospress.nl/doi/10.3233/FAIA240581" title="Cultural Gap">**On the cultural gap in text-to-image generation.**</a> **_ECAI 2024_**
-
-**Bingshuai Liu\***, Longyue Wang*, Chenyang Lyu, Yong Zhang, Jinsong Su, Shuming Shi, and Zhaopeng Tu.
-
-<a href="https://ieeexplore.ieee.org/abstract/document/10822800" title="ORMA">**Exploring Optimal Transport-Based Multi-Grained Alignments for Text-Molecule Retrieval.**</a> **_BIBM 2024 Regular Paper_**
-
-Zijun Min*, **Bingshuai Liu\***, Liang Zhang, Jia Song, Jinsong Su, Song He, and Xiaochen Bo.
-
-<a href="https://arxiv.org/abs/2312.01714" title="RA-CoT">**Retrieval-augmented Multi-modal Chain-of-Thoughts Reasoning for Large Language Models.**</a> **_IJCNN 2025_**
-
-**Bingshuai Liu\***, Chenyang Lyu*, Zijun Min, Zhanyu Wang, Jinsong Su, and Longyue Wang.
-
-<a href="https://arxiv.org/abs/2306.09093" title="Macaw-LLM">**Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration.**</a>
-
-Lyu, Chenyang, Minghao Wu, Longyue Wang, Xinting Huang, **Bingshuai Liu**, Zefeng Du, Shuming Shi, and Zhaopeng Tu.
-
+**Bingshuai Liu\***, Longyue Wang*, Chenyang Lyu, Yong Zhang, Jinsong Su, Shuming Shi, and Zhaopeng Tu. <a href="https://ebooks.iospress.nl/doi/10.3233/FAIA240581" title="Cultural Gap">**On the cultural gap in text-to-image generation.**</a> **_ECAI 2024_**
 
 ### 实习经历
 * 2022.08-2023.07: Tencent AI Lab, Shenzhen. Mentors: Dr. Longyue Wang and Dr. Zhaopeng Tu.
