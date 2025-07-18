@@ -1,16 +1,16 @@
 ---
 # 中文名称
-title: 张庆刚
+title: 简忠权
 
 #英文名，是展示在论文里面的名字
-englishname: Qinggang Zhang
+englishname: Zhongquan Jian
 
 # Full name (for SEO)
-first_name: 张
-last_name: 庆刚
+first_name: 简
+last_name: 忠权
 
 # 老师们在这里可以填一些比较重要的头衔、职称，学生填20**级硕士/博士
-role: 助理教授
+role: 副教授
 weight: 3
 
 # 这里放跟自己相关的一些页面的链接，我预定义了三个：分别是邮箱、Google-scholar主页和github主页
@@ -20,13 +20,13 @@ weight: 3
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zqg.zhang@hotmail.com'
+    link: 'mailto:jianzq@mju.edu.cn'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=eF8PATI7r3IC
+    link: https://scholar.google.com/citations?user=C1PWVBUAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/DEEP-PolyU
+    link: https://github.com/jianzquan
 
 #  老师这里填Researchers即可，不用修改
 user_groups:
@@ -39,7 +39,8 @@ user_groups:
 
 
 <!-- 老师的简要介绍 -->
-张庆刚，厦门大学信息学院助理教授、研究生导师。在西北工业大学完成本科学业后，于2021年9月入学香港理工大学计算机系攻读博士学位，师从黄啸和曹建农教授。2025年6月获得工学博士学位，同年7月入职厦门大学信息学院。主要的研究方向包括自然语言处理、大模型、检索增强(RAG)、AI for Science、知识图谱、数据挖掘等。迄今在自然语言处理和数据挖掘领域发表论文十余篇，涵盖NeurIPS、KDD、ACL、TKDE等顶会顶刊。
+简忠权，闽江大学计算机与大数据学院学院副教授、研究生导师。
+<!-- 在西北工业大学完成本科学业后，于2021年9月入学香港理工大学计算机系攻读博士学位，师从黄啸和曹建农教授。2025年6月获得工学博士学位，同年7月入职厦门大学信息学院。主要的研究方向包括自然语言处理、大模型、检索增强(RAG)、AI for Science、知识图谱、数据挖掘等。迄今在自然语言处理和数据挖掘领域发表论文十余篇，涵盖NeurIPS、KDD、ACL、TKDE等顶会顶刊。 -->
 
 ### 研究方向
 * 自然语言处理

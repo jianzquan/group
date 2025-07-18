@@ -1,13 +1,13 @@
 ---
 # 中文名称
-title: 苏劲松
+title: 吴清强
 
 #英文名，是展示在论文里面的名字
-englishname: Jinsong Su
+englishname: Qingqiang Wu
 
 # Full name (for SEO)
-first_name: 苏
-last_name: 劲松
+first_name: 吴
+last_name: 清强
 
 # 老师们在这里可以填一些比较重要的头衔、职称
 role: 教授、博士生导师
@@ -20,10 +20,10 @@ weight: 1
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jssu@xmu.edu.cn'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=w6qCk3sAAAAJ&hl=zh-CN&oi=ao
+    link: 'mailto:wuqq@xmu.edu.cn'
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.com/citations?user=w6qCk3sAAAAJ&hl=zh-CN&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com
@@ -40,7 +40,7 @@ user_groups:
 
 
 <!-- 老师的简要介绍 -->
-苏劲松，厦门大学信息学院教授、博士生导师，电影学院，人工智能研究院双聘导师。2011年毕业于中国科学院计算技术研究所，获得工学博士学位。共发表CCF-A/B论文160余篇。曾培养硕士生获得百度奖学金，腾讯犀牛鸟奖学金。
+吴清强，厦门大学信息学院教授、博士生导师，电影学院，人工智能研究院双聘导师。xxx
 
 ### 研究方向
 * 自然语言处理
@@ -48,14 +48,9 @@ user_groups:
 * 机器翻译
 
 ### 获得荣誉
-* 24年福建省（首届）攻关青年基金获得者
-* 23年国家示范性软件学院20周年优秀专职教师奖
-* 22年厦门大学南强青年拔尖A类人才
-* 22/23/24年斯坦福大学版全球前2%顶尖科学家
-* 21年“国家特支计划”青年拔尖人才
-* 20年中国中文信息学会钱伟长中文信息处理科学技术奖—汉王青年创新奖
-* 20年福建省杰出青年基金获得者
-* 19/20/21/23年腾讯犀牛鸟精英人才培养计划优秀导师奖
+* xxx
+* xxx
+
 
 ### 学术兼职
 * 中国中文信息学会理事、青年工作委员会委员、机器翻译专委会委员、自然语言生成与智能写作专委会委员
