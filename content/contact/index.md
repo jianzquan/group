@@ -10,20 +10,20 @@ sections:
       title: 联系我们
       text: |-
         
-      email:  jssu@xmu.edu.cn
+      email:  wuqq@xmu.edu.cn
       address:
           country: 中国
           country_code: CN
           province: 福建省
           city: 厦门市
-          district: 翔安区
-          street: 香山街道香山路厦门大学翔安校区
-          detail: 西部园区信息学院科研楼5号楼
-          postcode: "361102"  
+          district: 思明区
+          street: 思明南路厦门大学思明校区
+          detail: 海韵园科研（一）309实验室
+          postcode: "361005"  
       coordinates:
-        latitude: '24.6083'
-        longitude: '118.29635'
-      directions: 西部园区信息学院科研楼5号楼
+        latitude: '24.4305'
+        longitude: '118.1128'
+      directions: 海韵园科研（一）309实验室
     
       # Automatically link email and phone or display as text?
       autolink: true
