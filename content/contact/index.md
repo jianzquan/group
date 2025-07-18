@@ -21,8 +21,8 @@ sections:
           detail: 海韵园科研（一）309实验室
           postcode: "361005"  
       coordinates:
-        latitude: '24.4305'
-        longitude: '118.1128'
+        latitude: '24.430533'
+        longitude: '118.112772'
       directions: 海韵园科研（一）309实验室
     
       # Automatically link email and phone or display as text?
