@@ -1,15 +1,15 @@
 ---
-title: 课题组1篇论文被 ICML2025 录用
-date: 2025-05-03
+title: 课题组1篇论文被 ICCV2025 录用
+date: 2025-06-26
 ---
-&emsp;&emsp;ICML会议（International Conference on Machine Learning，国际机器学习会议），是全球人工智能和机器学习领域最具影响力的学术会议之一，在CCF学术推荐列表中认定为A类会议。ICML 2025将于2025年7月在加拿大温哥华举行。
+&emsp;&emsp;ICCV会议（International Conference on Computer Vision，计算机视觉国际大会），是是计算机视觉领域的全球顶级学术会议之一，在CCF学术推荐列表中认定为A类会议。ICCV2025 将于2025年10月19日至23日在夏威夷檀香山举行。
 <!--more-->
 
 - - - 
-- 论文标题：EpiCoder: Encompassing Diversity and Complexity in Code Generation
-- 录用类型：ICML2025主会长文
-- 论文作者：Yaoxiang Wang+, Haoling Li+, Xin Zhang+, Jie Wu, Xiao Liu, Wenxiang Hu, Zhongxin Guo, Yangyu Huang, Ying Xin, Yujiu Yang\*, Jinsong Su\*, Qi Chen, Scarlett Li 
-- 完成单位：厦门大学，清华大学，微软
-![](1.jpg)
+- 论文标题：Supervised Exploratory Learning for Long-Tailed Visual Recognition
+- 录用类型：ICCV2025 主会长文
+- 论文作者：Zhongquan Jian+, Yanhao Chen+, Yancheng Wang, Junfeng Yao\*, Meihong Wang\*, Qingqiang Wu\*
+- 完成单位：厦门大学
+![](1.png)
 - 论文简介：
-现有的大语言模型在代码生成方面已取得显著进展，但在面对复杂结构、多样语义与跨文件依赖等真实开发场景时仍存在能力瓶颈。为了支持更高质量、结构合理、复杂度可控的代码生成任务，论文提出了一个结构驱动的数据合成框架 EpiCoder，引入“特征树（feature tree）”作为代码语义的中间结构表示，系统性地控制代码片段的结构、语义及跨组件依赖关系。借助这一结构化合成流程，EpiCoder 能够生成可调复杂度、结构清晰且跨语义路径多样化的代码数据，从而有效提升模型在结构化理解与复杂生成任务上的表现。实验证明，EpiCoder 可广泛支持包括模块级代码生成、跨文件建构、语义覆盖增强等任务，并在多个代表性基准任务中显著提升现有代码大模型的性能与泛化能力。
+长尾数据对深度学习模型提出了重大挑战，这些模型往往倾向于优先保证头部类别的分类准确性，而严重忽略尾部类别。现有技术（如类别重平衡、逻辑调整和数据增强）主要致力于扩大尾部类别的决策区域或实现清晰的决策边界，却忽视了决策区域的鲁棒性。本文提出了一种简单而有效的监督式探索学习框架（SEL），从空间探索的角度同时实现上述目标。SEL采用自适应最优觅食算法（OFA）生成多样化的探索样本，并结合类别偏置补偿（CbC）实现类别分布平衡，以及适应度加权采样（FwS）进行空间探索。理论分析和实验结果均表明，SEL能够提升类别平衡性、锐化决策边界并强化决策区域。SEL是一种即插即用的训练框架，可无缝集成到模型训练或分类器调整阶段，具有高度适应性和兼容性，能够与现有方法结合并进一步提升性能。在多个长尾基准数据集上的大量实验证明了SEL的优越性。
