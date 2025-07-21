@@ -1,17 +1,17 @@
 ---
 # 中文名称
-title: 林晨潇
+title: 尹文豪
 
 #英文名，是展示在论文里面的名字
-englishname: Chenxiao Lin
+englishname: Wenhao Yin
 
 # Full name (for SEO)
-first_name: 晨潇
-last_name: 林
+first_name: 尹
+last_name: 文豪
 
 # 老师们在这里可以填一些比较重要的头衔、职称，学生填20**级硕士/博士
-role: 2022级博士研究生
-weight: 2022
+role: 2024级硕士研究生
+weight: 2024
 
 # 这里放跟自己相关的一些页面的链接，我预定义了三个：分别是邮箱、Google-scholar主页和github主页
 # 对于不想放上去或者自己没有的链接，直接删除即可。
@@ -20,14 +20,14 @@ weight: 2022
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:cxlin@stu.xmu.edu.cn'
+    link: 'mailto:wenhao2002@stu.xmu.edu.cn'
   - icon: github
     icon_pack: fab
-    link: https://github.com/ado-cs
+    link: https://github.com/niywx
 
 #  老师这里填Researchers即可，硕士填 Master Students ，博士填 Ph.D. Students
 user_groups:
-  - Ph.D. Students
+  - Master Students
 
 #接着下面是markdown格式的文本，是md文件的具体内容，同学们可以自行进行修改、删减和添加
 ---
@@ -37,6 +37,9 @@ user_groups:
 <!-- 这里可以先放一段简要自我介绍或者是自己想要放上去的一些链接 ，不想放的话也可以删了-->
 
 ### 研究方向
-* Knowledge Graph Embedding
-* GraphRAG
+* 多模态大语言模型
+* Agent代理
 
+### 获得荣誉
+* National Encouragement Scholarship in 2023
+* Outstanding Graduate of Hunan Province in 2024
