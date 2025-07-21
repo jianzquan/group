@@ -1,8 +1,8 @@
 ---
 title: "DTCRS: Dynamic Tree Construction for Recursive Summarization"
 authors:
-- Guanran Luo
-- Zhongquan Jian
+- Guanran Luo+
+- Zhongquan Jian+
 - Wentao Qiu
 - Meihong Wang
 - Qingqiang Wu

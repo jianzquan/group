@@ -1,8 +1,8 @@
 ---
 title: "Supervised Exploratory Learning for Long-Tailed Visual Recognition"
 authors:
-- Zhongquan Jian
-- Yanhao Chen
+- Zhongquan Jian+
+- Yanhao Chen+
 - Yancheng Wang
 - Junfeng Yao
 - Meihong Wang
